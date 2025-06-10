@@ -1,5 +1,5 @@
 
-# Food API
+# Athenahealth Food Insecurity API
 
 A simple Spring Boot REST API for managing food items.  
 This API allows you to create, read, and delete food resources.
