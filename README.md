@@ -1,8 +1,8 @@
 
-# Food API
+#Integrating Food Assistance Resource Hackathon Project Athenahealth 
 
-A simple Spring Boot REST API for managing food items.  
-This API allows you to create, read, and delete food resources.
+A simple Spring Boot REST API for managing SDOH (social determinant of health) factors.
+This project includes the frameworks for a frontend and  backend that allows you to create, read, and delete food resources.
 
 ## Features
 
@@ -48,4 +48,4 @@ This API allows you to create, read, and delete food resources.
 
 ---
 
-Created by Ermithe Tilusca
+Created by Fehintoluwa Benson, Ermithe Tilusca, Farah Shousha, Fegor Uwuseba 
