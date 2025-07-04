@@ -4,6 +4,8 @@
 A simple Spring Boot REST API for managing SDOH (social determinant of health) factors.
 This project includes the frameworks for a frontend and  backend that allows you to create, read, and delete food resources.
 
+Project Proposal:
+https://docs.google.com/presentation/d/1XHd75_ruo-YQwBnqf4UF9hL2EryKeD-edgepYa8HMb8/edit?usp=sharing 
 ## Features
 
 - List all food items  
